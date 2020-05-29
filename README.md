@@ -1,6 +1,6 @@
 # Convolution as Matrix Multiplication
 
-Perfomred convolution on an elephant image as a matrix multiplication using a vertical edge filter matrix.
+Perfomred convolution on an elephant image as a matrix multiplication using a vertical edge filter matrix. The reference used for this purpose is- https://github.com/alisaaalehi/convolution_as_multiplication/blob/master/Convolution_as_multiplication.ipynb.
 
 The vertical edge filter matrix-
 
