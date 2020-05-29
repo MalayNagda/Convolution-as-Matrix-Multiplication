@@ -1,2 +1,11 @@
 # Convolution as Matrix Multiplication
- Perform convolution as a matrix multiplication operation with a vertical edge filter.
+
+Perfomred convolution on an elephant image as a matrix multiplication using a vertical edge filter matrix.
+
+The vertical edge filter matrix-
+
+| 1 | 0 | -1 |
+| 1 | 0 | -1 |
+| 1 | 0 | -1 |
+| ------------- | ------------- |
+
