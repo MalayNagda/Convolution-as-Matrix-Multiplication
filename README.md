@@ -9,3 +9,6 @@ The vertical edge filter matrix-
 | **1** | **0** | **-1** |
 | **1** | **0** | **-1** |
 
+<p align="center">
+<img src="images/elephant.jpeg">
+</p>
