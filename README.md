@@ -5,8 +5,6 @@ Perfomred convolution on an elephant image as a matrix multiplication using a ve
 The vertical edge filter matrix-
 
 | 1 | 0 | -1 |
-| ------------- | ------------- | ------------- |
 | 1 | 0 | -1 |
-| ------------- | ------------- | ------------- |
 | 1 | 0 | -1 |
-| ------------- | ------------- | ------------- |
+
